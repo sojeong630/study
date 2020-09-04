@@ -13,3 +13,11 @@ alert 명령어
 console.log 명령어
 - console.log 뒤에 따라오는 괄호 안에 들어있는 메시지를 콘솔창에 출력하는 명령어
 - console.log("Hello developer console");
+
+# 파트 2 변수
+변수
+- var variable_name=value;
+
+prompt() 명령어
+- promprt 뒤에 따라오는 괄호 안에 들어있는 메세지를 사용자에게 보여주고, 문자열을 입력받는 명령
+- var name=prompt("이름을 입력해 주세요");
