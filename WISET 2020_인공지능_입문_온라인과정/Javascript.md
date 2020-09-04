@@ -21,3 +21,7 @@ console.log 명령어
 prompt() 명령어
 - promprt 뒤에 따라오는 괄호 안에 들어있는 메세지를 사용자에게 보여주고, 문자열을 입력받는 명령
 - var name=prompt("이름을 입력해 주세요");
+
+console.log 명령어
+- 괄호 에 여러개의 메시지 가능 
+- console.log("홍길동", "님 안녕하세요")
