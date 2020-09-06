@@ -36,3 +36,13 @@ typeof() 명령어
 - console.log(a,typeof(a));
 - //100 "number"라고 출력
 
+number 자료형
+- 숫자를 나타내는 형, 실수 정수 상관없음
+- parseInt, parseFloat 명령어 : 입력된 명령어에서 정수, 실수 부분을 인식해서 변수에 저장 // 문자열의 시작부터 인식 
+
+Object
+- 단순 자료형보다 더 복잡한 자료를 표현할 때 사용
+- 중괄호 {} 를 사용해 정의 가능
+- var man = {name :"홍길동", age : 20, height:180};
+- man.name ==> "홍길동"
+- man.name = "김서방";
