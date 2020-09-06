@@ -25,3 +25,14 @@ prompt() 명령어
 console.log 명령어
 - 괄호 에 여러개의 메시지 가능 
 - console.log("홍길동", "님 안녕하세요")
+
+# 파트 3 자료형
+자료형 
+- 변수에 저장할 있는 값의 종류
+
+typeof() 명령어
+- typeof 뒤에 따라오는 괄호 안에 들어있는 변수의 type을 알려주는 명령어
+- var a=100;
+- console.log(a,typeof(a));
+- //100 "number"라고 출력
+
