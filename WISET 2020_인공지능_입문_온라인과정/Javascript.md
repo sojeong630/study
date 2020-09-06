@@ -43,9 +43,5 @@ number 자료형
 Object
 - 단순 자료형보다 더 복잡한 자료를 표현할 때 사용
 - 중괄호 {} 를 사용해 정의 가능
-- var man = {name :"홍길동", age : 20, height:180};
-- man.name ==> "홍길동"
-- man.name = "김서방";
-
 <img width="254" alt="1" src="https://user-images.githubusercontent.com/62346198/92322870-f377b980-f06e-11ea-894b-1ca7f16e94ba.PNG">
 
