@@ -47,4 +47,5 @@ Object
 - man.name ==> "홍길동"
 - man.name = "김서방";
 
-!(C:\소정\공부\Javascript\1.PNG)
+<img width="254" alt="1" src="https://user-images.githubusercontent.com/62346198/92322870-f377b980-f06e-11ea-894b-1ca7f16e94ba.PNG">
+
