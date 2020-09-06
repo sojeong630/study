@@ -46,4 +46,5 @@ Object
 - var man = {name :"홍길동", age : 20, height:180};
 - man.name ==> "홍길동"
 - man.name = "김서방";
+
 C:\소정\공부\Javascript\1.PNG
