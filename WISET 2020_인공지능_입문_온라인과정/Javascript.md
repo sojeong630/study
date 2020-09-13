@@ -45,3 +45,8 @@ Object
 - 중괄호 {} 를 사용해 정의 가능
 <img width="254" alt="1" src="https://user-images.githubusercontent.com/62346198/92322870-f377b980-f06e-11ea-894b-1ca7f16e94ba.PNG">
 
+# 파트 4 연산자
+Math 관련 명령어
+- Math.pow(A,b) : A의 B승을 구해 줌
+- Math.sqrt(A) : A의 제곱근을 구해 줌
+- Math.random() : 0~1 사이의 임의의 난수를 발생시켜 줌
