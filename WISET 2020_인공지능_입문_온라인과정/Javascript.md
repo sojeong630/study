@@ -52,4 +52,5 @@ Math 관련 명령어
 - Math.random() : 0~1 사이의 임의의 난수를 발생시켜 줌
 
 함수
+
 <img width="324" alt="캡처" src="https://user-images.githubusercontent.com/62346198/93765926-a1c75580-fc50-11ea-8e1b-774dcda00b90.PNG">
