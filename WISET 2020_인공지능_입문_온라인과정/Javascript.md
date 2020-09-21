@@ -57,5 +57,7 @@ Math 관련 명령어
 
 # 파트 5 String
 str.length : 문자열 길이 알아내기 
+
 str1.concat(str2) : 문자열 붙이기
+
 str1+str2 : 문자열 붙이기 
