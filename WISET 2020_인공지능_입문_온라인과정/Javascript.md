@@ -54,3 +54,8 @@ Math 관련 명령어
 함수
 
 <img width="324" alt="캡처" src="https://user-images.githubusercontent.com/62346198/93765926-a1c75580-fc50-11ea-8e1b-774dcda00b90.PNG">
+
+String
+- str.length : 문자열 길이 알아내기
+- str1.concat(str2) : 문자열 붙이기
+- str1+str2 : 문자열 붙이기 
