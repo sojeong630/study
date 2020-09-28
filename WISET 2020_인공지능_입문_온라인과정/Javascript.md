@@ -56,8 +56,38 @@ Math 관련 명령어
 <img width="324" alt="캡처" src="https://user-images.githubusercontent.com/62346198/93765926-a1c75580-fc50-11ea-8e1b-774dcda00b90.PNG">
 
 # 파트 5 String
-str.length : 문자열 길이 알아내기 
+문자열 길이 알아내기 : str.length 
 
-str1.concat(str2) : 문자열 붙이기
+문자열 붙이기
+- str1.concat(str2)
+- str1+str2
 
-str1+str2 : 문자열 붙이기 
+특정 위치 문자열 알아내기
+- str.charAt(0) : charAt 함수 사용
+- str[0] : 대괄호 사용
+- str.substring(pos1, pos2) : pos1부터 pos2 까지의 문자열 반환
+- str.substr(pos, length) : pos부터 length길이 만큼의 문자열 반환
+
+문자열 검색하기
+- indexOf(str) : 처음 나온 문자열 위치 반환
+- lastIndexOf(str) : 마지막으로 나온 문자열 위치 반환
+- 존재하지 않으면 -1 반환
+
+# 파트 6 배열
+배열 ex) var arr=[]; , var arr=[1,2,3,4,5];
+- 어떤 자료형이든 상관 없음, 서로 다른 자료형이여도 괜찮음
+
+배열 엘리먼트 다루기
+- arr.pop() : 맨 뒤에 엘리먼트 삭제
+- arr.shift() : 제일 처음 엘리먼트 삭제
+- arr.push() : 뒤에 엘리먼트 추가
+- arr.unshift() : 앞에 엘리먼트 추가
+- arr.reverse() : 배열 뒤집기
+- arr.sort() : 배열 정렬하기
+
+배열 다루기 
+- arr1.concat(arr2) : arr1과 arr2 붙임  // 붙여서 리턴만 해주고 변환은 X
+- arr.indexOf(element) : element가 있는 첫 위치를 검색
+- arr.lastIndexOf(element) :  element가 있는 마지막 위치를 검색
+
+split 함수 : 문자열을 구분자로 나눠 배열로 변환
