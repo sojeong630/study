@@ -91,3 +91,6 @@ Math 관련 명령어
 - arr.lastIndexOf(element) :  element가 있는 마지막 위치를 검색
 
 split 함수 : 문자열을 구분자로 나눠 배열로 변환
+
+# 파트 7 조건문
+if, else if, else, switch
