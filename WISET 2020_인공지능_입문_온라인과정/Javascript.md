@@ -94,3 +94,14 @@ split 함수 : 문자열을 구분자로 나눠 배열로 변환
 
 # 파트 7 조건문
 if, else if, else, switch
+
+# 파트 8 반복문
+while문
+- break : 즉시탈출
+- continue : 남은 반복 실행될 코드 skip
+
+do while문
+- 한번은 무조건 실행되고, 이후에 반복할지 말지를 결정
+
+for in문
+- 객체의 엘리먼트에 접근할 수 있는 반복문
